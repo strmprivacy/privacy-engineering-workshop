@@ -1,7 +1,7 @@
 terraform {
   backend "gcs" {
     bucket = "stream-machine-provisioning-dev"
-    prefix = "projects/data-engineer-workshop"
+    prefix = "projects/privacy-engineering-workshop"
   }
   required_providers {
     google = {

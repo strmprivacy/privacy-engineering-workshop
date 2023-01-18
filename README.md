@@ -1,6 +1,6 @@
-# Data Engineering Workshop
+# Privacy Engineering Workshop
 
-This repository contains a notebook that is part of the bi-monthly STRM Privacy Data Engineering Workshop.
+This repository contains a notebook that is part of the bi-monthly Privacy Engineering Workshop.
 
 ## Pre-requisites
 
