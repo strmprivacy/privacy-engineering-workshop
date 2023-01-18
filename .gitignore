@@ -1,0 +1,4 @@
+*.zip
+python-avro-*
+.idea
+.terraform
