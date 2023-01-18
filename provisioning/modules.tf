@@ -6,7 +6,7 @@ locals {
 
 resource "google_storage_bucket" "data_engineering_bucket" {
   name = local.service_account_id
-  location = var.region
+  location = module.dev.default_region
 
   force_destroy = true
 }

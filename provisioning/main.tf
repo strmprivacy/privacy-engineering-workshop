@@ -21,8 +21,3 @@ provider "google" {
   region = module.dev.default_region
   zone = module.dev.default_zone
 }
-
-module "data_engineering_workshop" {
-  source = "./data_engineering_workshop"
-  region = module.dev.default_region
-}
