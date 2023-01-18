@@ -1,4 +1,4 @@
-# Data Engineering Workhop GCP resources
+# Privacy Engineering Workshop GCP resources
 
 If you're curious what's happening here, feel free to browse around. But you won't need this during the workshop :)
 
